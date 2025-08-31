@@ -2,7 +2,7 @@
 find ./ -type f -exec sed -i -e 's/present/absent/g' {} \;
 
 Variables:
-1. Bash: 
+1. Bash:
 ubuntu@j-master:~$ name="TomPak"
 ubuntu@j-master:~$
 ubuntu@j-master:~$ echo "$name"
