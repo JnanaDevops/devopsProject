@@ -13,4 +13,7 @@ ubuntu@j-master:~$
 
 ubuntu@j-master:~$ name=suresh && echo "hello $name"
 hello suresh
-<img width="411" height="88" alt="image" src="https://github.com/user-attachments/assets/f466e36e-ee38-49f0-a9ad-d9d633a537e3" />
+<img width="411" height="88" alt="image" src="https://github.com/user-attachments/assets/f466e36e-ee38-49f0-a9ad-d9d633a537e3" /> 
+
+<img width="412" height="206" alt="image" src="https://github.com/user-attachments/assets/3463648d-eca6-43e8-b1b5-227ee790ecb3" />
+
