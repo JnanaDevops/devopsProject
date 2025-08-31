@@ -1,7 +1,7 @@
 #sed command to makes changes in recursive files
 find ./ -type f -exec sed -i -e 's/present/absent/g' {} \;
 
-Variables:1
+Variables:11
 1. Bash:
 ubuntu@j-master:~$ name="TomPak"
 ubuntu@j-master:~$
