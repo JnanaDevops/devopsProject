@@ -27,4 +27,4 @@ sudo mv pwj-netflix-clone/* .
 sudo rm -rf pwj-netflix-clone
 
 # Tail Apache access logs (optional, useful for debugging)
-sudo tail -100f /var/log/apache2/access.log
+# sudo tail -100f /var/log/apache2/access.log
