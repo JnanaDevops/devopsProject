@@ -20,7 +20,7 @@ cd /var/www/html
 sudo rm -f index.html
 
 # Clone the repo
-sudo git clone https://github.com/CleverProgrammers/pwj-netflix-clone.git
+sudo git clone https://github.com/JnanaDevops/pwj-netflix-clone.git
 
 # Move contents from cloned repo to web root
 sudo mv pwj-netflix-clone/* .
